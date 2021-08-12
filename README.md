@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @qed-exe
-- 👀 I’m interested in Cybersecurty
+- 👀 I’m interested in Cybersecurity
 - 💞️ I’m looking to collaborate with other people
-- 📫 How to reach me ...
 
 <!---
 qed-exe/qed-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
